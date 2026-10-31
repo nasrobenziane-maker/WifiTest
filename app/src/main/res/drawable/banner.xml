@@ -10,12 +10,15 @@
         android:strokeColor="#FF8BE9FD"
         android:strokeWidth="8"
         android:strokeLineCap="round"
-        android:pathData="M90,50 A40,40 0 1,1 89.99,50 Z" />
+        android:pathData="M54.64,74.64 A50,50 0 0,1 125.36,74.64" />
     <path
         android:strokeColor="#FF8BE9FD"
         android:strokeWidth="8"
         android:strokeLineCap="round"
-        android:pathData="M90,90 L90,62 M90,90 L112,102" />
+        android:pathData="M67.37,87.37 A32,32 0 0,1 112.63,87.37" />
+    <path
+        android:fillColor="#FF8BE9FD"
+        android:pathData="M81,110 A9,9 0 1,1 99,110 A9,9 0 1,1 81,110 Z" />
     <path
         android:fillColor="#FFFFFFFF"
         android:pathData="M150,70h130v14h-130z" />
