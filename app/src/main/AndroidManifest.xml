@@ -7,7 +7,7 @@
 
     <application
         android:allowBackup="false"
-        android:label="Wi-Fi Test"
+        android:label="Wi-Fi Manager"
         android:theme="@android:style/Theme.Material.NoActionBar">
         <activity
             android:name=".MainActivity"
