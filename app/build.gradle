@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'dz.stream.wifitest'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'dz.stream.wifitest'
+        minSdk 29
+        targetSdk 34
+        versionCode 1
+        versionName '1.0'
+    }
+}
